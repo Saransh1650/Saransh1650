@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Saransh</h1>
-<h3 align="center">A passionate App and Web from India</h3>
+<h3 align="center">A passionate App and Web developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saransh1650&label=Profile%20views&color=0e75b6&style=flat" alt="saransh1650" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saransh1650" alt="saransh1650" /></a> </p>
 
-- 🔭 I’m currently working on **Recipe app**
+- 🔭 I’m currently working on **learning about opensource**
 
 - 🌱 I’m currently learning **Android(Jetpack Compose), Flutter, Node.js, React**
 
