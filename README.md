@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saransh1650" alt="saransh1650" /></a> </p>
 
-- 🔭 I’m currently working on **learning about opensource**
+- 🔭 I’m currently working on **learning about opensource** 
 
 - 🌱 I’m currently learning **Android(Jetpack Compose), Flutter, Node.js, React**
 
