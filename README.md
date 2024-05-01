@@ -28,7 +28,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saransh1650&show_icons=true&locale=en&layout=compact" alt="saransh1650" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saransh1650&show_icons=true&locale=en" alt="saransh1650" /></p>
-
-<a href=""><img src="https://wakatime.com/share/@018d17c3-3ff7-470d-b643-518ad350372a/5bc30020-91f7-4e42-abe4-0397456c3dd3.svg"></a>
-
