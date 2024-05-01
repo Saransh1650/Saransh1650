@@ -31,4 +31,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saransh1650&show_icons=true&locale=en" alt="saransh1650" /></p>
 
 <a href=""><img src="https://wakatime.com/share/@018d17c3-3ff7-470d-b643-518ad350372a/5bc30020-91f7-4e42-abe4-0397456c3dd3.svg"></a>
-<a href=""><img src="https://wakatime.com/share/@018d17c3-3ff7-470d-b643-518ad350372a/8854868f-46fb-42b5-a0af-785a2d7ddc71.svg"></a>
+
