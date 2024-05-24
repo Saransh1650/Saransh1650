@@ -7,8 +7,6 @@
 
 - 🔭 I’m currently working on **learning about opensource** 
 
-- 🌱 I’m currently learning **Android(Jetpack Compose), Flutter, Node.js, React**
-
 - 👨‍💻 All of my projects are available at [https://github.com/Saransh1650](https://github.com/Saransh1650)
 
 - 💬 Ask me about **Android(Jetpack Compose), Flutter, Node.js, React, HTML, CSS**
