@@ -5,11 +5,11 @@
 
 <p align="left"> <a href=""><img src="https://github-profile-trophy.vercel.app/?username=saransh1650&title=MultipleLang,Repositories" alt="saransh1650" /></a> </p>
 
-- 🔭 I’m currently working on **learning about opensource** 
+- 🔭 I’m currently working on **App Development** 
 
 - 👨‍💻 All of my projects are available at [https://github.com/Saransh1650](https://github.com/Saransh1650)
 
-- 💬 Ask me about **Android(Jetpack Compose), Flutter, Node.js, React, HTML, CSS**
+- 💬 Ask me about **SwiftUI(iOS), Flutter, Solidity**
 
 - 📫 How to reach me **https://www.linkedin.com/in/saransh-singhal-359082238/**
 
