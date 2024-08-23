@@ -16,12 +16,7 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/saransh-singhal-359082238/**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/saransh-singhal-359082238" target="blank"><img align="center" src=https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg height="40" width="40" /></a>
-<a href="https://g.dev/SaranshSinghal" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/google/google-icon.svg" alt="singhalsaransh40" height="40" width="40" /></a>
-<a href="https://twitter.com/SaaranshSinghal" target="blank"><img align="center" src=https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg height="40" width="40" /></a>
-</p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 
