@@ -1,6 +1,9 @@
-<h1 align="center">Hi 👋, I'm Saransh</h1>
-<h3 align="center">A passionate App developer from India</h3>
+<h1 align="left">Hi there, I'm Saransh  <img src="https://camo.githubusercontent.com/3a56b7e3760758591c6f190ade5d015adbb38ecd9cdc1ea26ad2ce3c3618fdd4/68747470733a2f2f656d2d636f6e74656e742e7a6f626a2e6e65742f736f757263652f6e6f746f2d656d6f6a692d616e696d6174696f6e732f3334342f776176696e672d68616e645f6c696768742d736b696e2d746f6e655f31663434622d31663366625f31663366622e676966" height="40"/> </h1> 
 
+
+
+<p align="left"><a href="https://x.com/SaaranshSinghal"><img alt="X (formerly Twitter) URL" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2FSaaranshSinghal" width="100" height="27"></a> <a href="https://medium.com/@singhalsaransh40"><img  src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" width="100"></a> <a href="https://www.linkedin.com/in/saranshsinghal1650/"><img  src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" width="100"></a> 
+</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saransh1650&label=Profile%20views&color=0e75b6&style=flat" alt="saransh1650" /> </p>
 
 <p align="left"> <a href=""><img src="https://github-profile-trophy.vercel.app/?username=saransh1650&title=MultipleLang,Repositories" alt="saransh1650" /></a> </p>
