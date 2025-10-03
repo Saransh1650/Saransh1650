@@ -45,10 +45,10 @@
 📌 [**Finora – AI Finance Portfolio Guide**](https://github.com/saransh1650/Finora)  
 AI-powered app for portfolio tracking, investment insights, and recommendations.  
 
-📌 [**3D Drawing App (Swift + SwiftUI)**]([https://github.com/saransh1650](https://github.com/Saransh1650/3D_draw_app_swift))  
+📌 [**3D Drawing App (Swift + SwiftUI)**](https://github.com/Saransh1650/3D_draw_app_swift)  
 A creative drawing app with real-time collaboration features in progress.  
 
-📌 [**Crypto Trading Bot**]([https://github.com/saransh1650](https://github.com/Saransh1650/Momentum-Scalping--RSI---MACD---Price-Action-))  
+📌 [**Crypto Trading Bot**](https://github.com/Saransh1650/Momentum-Scalping--RSI---MACD---Price-Action-)  
 An AI + algorithmic trading bot using **PyTorch, RSI, MACD, LSTM models**.  
 
 ---
