@@ -6,6 +6,9 @@
 ---
 
 <p align="center">
+  <a href="https://apps.apple.com/in/app/finora/id6753204750">
+  <img alt="App Store" src="https://img.shields.io/badge/App%20Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white">
+</a>
   <a href="https://x.com/SaaranshSinghal"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
   <a href="https://medium.com/@singhalsaransh40"><img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/saranshsinghal1650/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
