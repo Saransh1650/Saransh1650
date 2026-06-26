@@ -63,5 +63,3 @@ An AI + algorithmic trading bot using **PyTorch, RSI, MACD, LSTM models**.
 - ✨ Published technical articles and tutorials  
 
 ---
-
-<p align="center">💡 *Always open to collaborations and innovative projects.*</p>
